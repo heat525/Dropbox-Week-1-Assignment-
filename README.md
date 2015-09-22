@@ -17,6 +17,7 @@ Completed User Stories
 
 
 Walkthrough:
+
 ![](https://cloud.githubusercontent.com/assets/8173243/10011857/a2f3490a-60b5-11e5-9d2a-1296efe093d6.gif)
 
 
